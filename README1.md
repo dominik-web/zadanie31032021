@@ -1,0 +1,1 @@
+polaczenie mysqli_connect
